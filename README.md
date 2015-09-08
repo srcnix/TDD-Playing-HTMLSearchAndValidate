@@ -42,8 +42,8 @@ You can add an additional validator by extending Validators::Base. The following
 
 * validate_content(content)
 
-##TO DO
-As this is purely an example time has not permitted optimisations. However, the code base could be enhanced by doing the following
+##TO DO / Possible optimising
+As this is purely an example time has not permitted optimising the code base. However, it could be enhanced by doing the following
 
 * Speed up tests by mocking external requests
 * Speed up tests by stubbing additional methods with return values
